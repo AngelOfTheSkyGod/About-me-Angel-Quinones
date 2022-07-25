@@ -5,7 +5,7 @@ function LinkedIn() {
       className="linkedInLink"
       href="https://www.linkedin.com/in/angel-quinones-a70958207/"
     >
-      <img className="LinkedInPicture" src="/images/LinkedIn.PNG" />
+      <img className="LinkedInPicture" src={require("./images/Linkedin.png")} />
     </a>
   );
 }
@@ -17,7 +17,7 @@ function Email() {
       className="EmailLink"
       href="mailto:quinonesangel2000@gmail.com?subject = Feedback&body = Message"
     >
-      <img className="EmailPicture" src="/images/Email.PNG" />
+      <img className="EmailPicture" src={require("./images/Email.png")} />
     </a>
   );
 }

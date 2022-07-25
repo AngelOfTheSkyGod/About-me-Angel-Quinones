@@ -1,3 +1,9 @@
 export default function Image() {
-  return <img className="Angel" src="/images/Angel.PNG" alt="angelimage" />;
+  return (
+    <img
+      className="Angel"
+      src={require("./images/Angel.PNG")}
+      alt="angelimage"
+    />
+  );
 }
