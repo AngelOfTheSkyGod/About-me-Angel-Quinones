@@ -1,7 +1,7 @@
 function FacebookLink() {
   return (
     <div>
-      <a href="https://www.facebook.com/angel.quinones.946">
+      <a target="_blank" href="https://www.facebook.com/angel.quinones.946">
         <img className="Facebook" src="/images/Facebook.PNG" />
       </a>
     </div>
@@ -11,7 +11,10 @@ function FacebookLink() {
 function InstagramLink() {
   return (
     <div>
-      <a href="https://www.instagram.com/angel.quinones.946/?hl=en">
+      <a
+        target="_blank"
+        href="https://www.instagram.com/angel.quinones.946/?hl=en"
+      >
         <img className="Instagram" src="/images/Instagram.PNG" />
       </a>
     </div>

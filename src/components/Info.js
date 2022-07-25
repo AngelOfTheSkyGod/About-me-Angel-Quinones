@@ -1,6 +1,7 @@
 function LinkedIn() {
   return (
     <a
+      target="_blank"
       className="linkedInLink"
       href="https://www.linkedin.com/in/angel-quinones-a70958207/"
     >
@@ -12,6 +13,7 @@ function LinkedIn() {
 function Email() {
   return (
     <a
+      target="_blank"
       className="EmailLink"
       href="mailto:quinonesangel2000@gmail.com?subject = Feedback&body = Message"
     >
