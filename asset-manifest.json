@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/About-me-Angel-Quinones/static/css/main.cbb1120f.css",
+    "main.js": "/About-me-Angel-Quinones/static/js/main.0f00a4da.js",
+    "index.html": "/About-me-Angel-Quinones/index.html",
+    "main.cbb1120f.css.map": "/About-me-Angel-Quinones/static/css/main.cbb1120f.css.map",
+    "main.0f00a4da.js.map": "/About-me-Angel-Quinones/static/js/main.0f00a4da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbb1120f.css",
+    "static/js/main.0f00a4da.js"
+  ]
+}
