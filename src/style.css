@@ -1,10 +1,10 @@
 .Background {
-  position: absolute;
+  position: relative;
   margin: auto;
-  width: 20%;
-  height: 60%;
-  left: 40%;
-  top: 10%;
+  width: 550px;
+  height: 600px;
+  left: 50px;
+  top: 0%;
   border-radius: 25px;
   z-index: 2;
   background: #23252c;
@@ -25,7 +25,7 @@
   position: absolute;
   width: 200px;
   height: 25.81px;
-  left: 30%;
+  left: 186px;
   top: 38%;
   z-index: 2;
   font-family: "Inter";
@@ -43,8 +43,8 @@
   position: absolute;
   width: 178.06px;
   height: 14.19px;
-  left: 35%;
-  top: 47%;
+  left: 200px;
+  top: 48%;
 
   font-family: "Inter";
   font-style: normal;
@@ -62,8 +62,8 @@
   position: absolute;
   width: 228px;
   height: 16px;
-  left: 28%;
-  top: 44%;
+  left: 170px;
+  top: 45%;
 
   font-family: "Inter";
   font-style: normal;
@@ -93,8 +93,8 @@
   object-fit: cover;
   width: 13%;
   height: 2%;
-  left: 55%;
-  top: 53%;
+  left: 300px;
+  top: 55%;
 
   background: #5093e2;
   /* shadow/sm */
@@ -119,8 +119,8 @@
   object-fit: cover;
   width: 12.5%;
   height: 1.5%;
-  left: 30%;
-  top: 53%;
+  left: 175px;
+  top: 55%;
   /* white */
 
   background: #ffffff;
@@ -154,12 +154,12 @@
   width: 247px;
   height: 61px;
   left: 152px;
-  top: 62%;
+  top: 63%;
 
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  font-size: 60%;
+  font-size: 50%;
   line-height: 150%;
   /* or 15px */
 
@@ -175,12 +175,12 @@
   height: 21px;
   left: 135px;
 
-  top: 74%;
+  top: 75%;
   z-index: 2;
   font-family: "Inter";
   font-style: normal;
   font-weight: 700;
-  font-size: 60%;
+  font-size: 50%;
   line-height: 150%;
   /* or 24px */
 
@@ -194,12 +194,12 @@
   width: 247px;
   height: 61px;
   left: 152px;
-  top: 76.5%;
+  top: 77%;
 
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  font-size: 60%;
+  font-size: 50%;
   line-height: 150%;
   /* or 15px */
 
@@ -208,11 +208,11 @@
 
 .Footer {
   position: absolute;
-  width: 100%;
+  width: 550px;
 
   height: 64px;
   left: 0px;
-  top: 95%;
+  top: 90%;
 
   background: #161619;
   border-radius: 0px 0px 10px 10px;
@@ -236,7 +236,7 @@
 
 .Foreground {
   position: absolute;
-  width: 57%;
+  width: 317px;
   height: 60%;
   left: 116px;
   top: 40%;
