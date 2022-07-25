@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/About-me-Angel-Quinones/static/css/main.cbb1120f.css",
-    "main.js": "/About-me-Angel-Quinones/static/js/main.0f00a4da.js",
+    "main.css": "/About-me-Angel-Quinones/static/css/main.ea2ab4cd.css",
+    "main.js": "/About-me-Angel-Quinones/static/js/main.0bef1c76.js",
+    "static/media/Angel.PNG": "/About-me-Angel-Quinones/static/media/Angel.a7d643f3c1ea55426d1d.PNG",
     "index.html": "/About-me-Angel-Quinones/index.html",
-    "main.cbb1120f.css.map": "/About-me-Angel-Quinones/static/css/main.cbb1120f.css.map",
-    "main.0f00a4da.js.map": "/About-me-Angel-Quinones/static/js/main.0f00a4da.js.map"
+    "main.ea2ab4cd.css.map": "/About-me-Angel-Quinones/static/css/main.ea2ab4cd.css.map",
+    "main.0bef1c76.js.map": "/About-me-Angel-Quinones/static/js/main.0bef1c76.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbb1120f.css",
-    "static/js/main.0f00a4da.js"
+    "static/css/main.ea2ab4cd.css",
+    "static/js/main.0bef1c76.js"
   ]
 }
