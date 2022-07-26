@@ -1,9 +1,9 @@
 .Background {
   position: relative;
-  width: 20%;
-  height: 750px;
+  width: 23vw;
+  height: 85vh;
   left: 40%;
-  top: 7vh;
+  top: 4vh;
   border-radius: 25px;
   z-index: 2;
   background: #23252c;
@@ -21,40 +21,42 @@
 }
 
 .Name {
+  white-space: nowrap;
   position: absolute;
-  width: 50%;
-  height: 20%;
-  left: 25%;
+  width: 20vw;
+  height: 10vh;
+  left: 8%;
   top: 40%;
   z-index: 2;
   font-family: "Inter";
   font-style: normal;
   overflow-wrap: break-word;
   font-weight: 700;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   text-align: center;
 
   color: #ffffff;
 }
 
 .Role {
+  white-space: nowrap;
   position: absolute;
-  width: 40%;
-  height: 20%;
-  left: 31%;
-  top: 46%;
+  width: 15vw;
+  height: 10vh;
+  left: 19%;
+  top: 47%;
 
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   text-align: center;
   z-index: 2;
   color: #f3bf99;
 }
 
 .Quote {
-  /* laurasmith.website */
+  white-space: nowrap;
 
   position: absolute;
   width: 50%;
@@ -135,7 +137,7 @@
   width: 30%;
   height: 20%;
   left: 28%;
-  top: 60%;
+  top: 58%;
   z-index: 2;
   font-family: "Inter";
   font-style: normal;
@@ -148,16 +150,16 @@
 }
 .Bio {
   position: absolute;
-  width: 50%;
-  height: 50%;
+  width: 18em;
+  height: 20em;
   left: 29%;
-  top: 62%;
+  top: 60%;
 
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  font-size: 0.6rem;
-  line-height: 150%;
+  font-size: 0.5rem;
+  line-height: 130%;
   /* or 15px */
 
   z-index: 2;
@@ -168,8 +170,8 @@
   /* Interests */
 
   position: absolute;
-  width: 30%;
-  height: 20%;
+  width: 30vw;
+  height: 20vh;
   left: 28%;
 
   top: 74%;
@@ -188,16 +190,16 @@
 
   z-index: 2;
   position: absolute;
-  width: 50%;
-  height: 50%;
+  width: 18em;
+  height: 20em;
   left: 29%;
   top: 76.5%;
 
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  font-size: 60%;
-  line-height: 150%;
+  font-size: 0.5rem;
+  line-height: 130%;
   /* or 15px */
 
   color: #dcdcdc;
