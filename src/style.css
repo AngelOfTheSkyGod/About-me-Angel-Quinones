@@ -1,9 +1,9 @@
 .Background {
   position: relative;
   width: 20%;
-  height: 750px;
+  height: 80vh;
   left: 40%;
-  top: 50%;
+  top: 7vh;
   border-radius: 25px;
   z-index: 2;
   background: #23252c;
