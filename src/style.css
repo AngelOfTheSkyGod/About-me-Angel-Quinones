@@ -90,8 +90,8 @@
   object-fit: cover;
   width: 13%;
   height: 2%;
-  left: 55%;
-  top: 53%;
+  left: 300px;
+  top: 55%;
 
   background: #5093e2;
   /* shadow/sm */
@@ -116,8 +116,8 @@
   object-fit: cover;
   width: 12.5%;
   height: 1.5%;
-  left: 30%;
-  top: 53%;
+  left: 175px;
+  top: 55%;
   /* white */
 
   background: #ffffff;
@@ -172,7 +172,7 @@
   height: 20%;
   left: 28%;
 
-  top: 74%;
+  top: 75%;
   z-index: 2;
   font-family: "Inter";
   font-style: normal;
@@ -196,7 +196,7 @@
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  font-size: 60%;
+  font-size: 50%;
   line-height: 150%;
   /* or 15px */
 
@@ -205,11 +205,11 @@
 
 .Footer {
   position: absolute;
-  width: 100%;
+  width: 550px;
 
   height: 64px;
   left: 0px;
-  top: 95%;
+  top: 90%;
 
   background: #161619;
   border-radius: 0px 0px 10px 10px;
@@ -233,7 +233,7 @@
 
 .Foreground {
   position: absolute;
-  width: 57%;
+  width: 317px;
   height: 60%;
   left: 22.7%;
   top: 40%;
