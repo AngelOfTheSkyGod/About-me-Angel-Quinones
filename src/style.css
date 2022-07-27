@@ -85,14 +85,12 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  padding: 9px 13px 9px 11px;
-  gap: 8px;
 
   position: absolute;
-  object-fit: cover;
-  width: 19%;
-  height: 3%;
-  left: 55%;
+  object-fit: fill;
+  width: 24%;
+  height: 4.5%;
+  left: 54%;
   top: 53%;
 
   background: #5093e2;
@@ -111,15 +109,13 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  padding: 9px 13px 9px 11px;
-  gap: 8px;
 
   position: absolute;
   object-fit: cover;
-  width: 18%;
-  height: 2.7%;
-  left: 27%;
+  width: 23%;
+  height: 4.2%;
   top: 53%;
+  left: 26%;
   /* white */
 
   background: #ffffff;
