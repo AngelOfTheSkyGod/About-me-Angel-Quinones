@@ -170,17 +170,17 @@
   /* Interests */
 
   position: absolute;
-  width: 10em;
-  height: 10em;
+  width: 12vw;
+  height: 16vh;
   left: 28%;
-  background-color: #161619;
+  background-color: #5093e2;
+  font-size: 80%;
 
   top: 74%;
   z-index: 2;
   font-family: "Inter";
   font-style: normal;
   font-weight: 700;
-  font-size: 0.6rem;
   line-height: 150%;
   /* or 24px */
 
@@ -195,11 +195,11 @@
   height: 12em;
   left: 26%;
   top: 75.9%;
-  background-color: #161619;
+  /* background-color: #161619; */
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  font-size: 8px;
+  font-size: 0.5em;
   line-height: 130%;
   /* or 15px */
 
