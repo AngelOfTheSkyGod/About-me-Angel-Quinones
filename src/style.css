@@ -193,13 +193,13 @@
   position: absolute;
   width: 19em;
   height: 12em;
-  left: 26%;
+  left: 29%;
   top: 75.9%;
   /* background-color: #161619; */
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  font-size: 0.5em;
+  font-size: max(0.6vh, 0.6vw);
   line-height: 130%;
   /* or 15px */
 
