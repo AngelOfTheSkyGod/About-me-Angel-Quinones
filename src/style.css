@@ -170,9 +170,10 @@
   /* Interests */
 
   position: absolute;
-  width: 30rem;
-  height: 20rem;
+  width: 10em;
+  height: 10em;
   left: 28%;
+  background-color: #161619;
 
   top: 74%;
   z-index: 2;
@@ -190,15 +191,15 @@
 
   z-index: 2;
   position: absolute;
-  width: 19rem;
-  height: 12rem;
+  width: 19em;
+  height: 12em;
   left: 26%;
   top: 75.9%;
   background-color: #161619;
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 8px;
   line-height: 130%;
   /* or 15px */
 
