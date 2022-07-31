@@ -200,6 +200,7 @@
     font-size: 1.3vh;
   }
 }
+/* PHONE SCREENS */
 @media only screen and (min-width: 375px) and (max-width: 820px) {
   .background {
     top: -5vh;
@@ -207,13 +208,13 @@
     width: 100%;
   }
   .navbar {
-    top: 4vh;
+    top: 2vh;
   }
   :root {
     font-size: 1.43vh;
   }
 }
-
+/* LAPTOP SCREENS */
 @media only screen and (min-width: 820px) and (max-width: 1500px) {
   .background {
     top: 8vh;
@@ -225,7 +226,7 @@
     font-size: 2vh;
   }
   .navbar {
-    top: 2vh;
+    top: 4vh;
   }
   .p-body {
     box-sizing: border-box;
