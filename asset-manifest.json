@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/About-me-Angel-Quinones/static/css/main.8321816c.css",
-    "main.js": "/About-me-Angel-Quinones/static/js/main.8849f5df.js",
-    "static/media/Angel.PNG": "/About-me-Angel-Quinones/static/media/Angel.a7d643f3c1ea55426d1d.PNG",
+    "main.css": "/About-me-Angel-Quinones/static/css/main.34785d33.css",
+    "main.js": "/About-me-Angel-Quinones/static/js/main.4995f7c6.js",
+    "static/media/Angel.jpg": "/About-me-Angel-Quinones/static/media/Angel.8283d7553f6bbed3cbff.jpg",
+    "static/media/Angel_Quinones_Resume.pdf": "/About-me-Angel-Quinones/static/media/Angel_Quinones_Resume.dfcd0cbb9e5d0629a934.pdf",
     "index.html": "/About-me-Angel-Quinones/index.html",
-    "main.8321816c.css.map": "/About-me-Angel-Quinones/static/css/main.8321816c.css.map",
-    "main.8849f5df.js.map": "/About-me-Angel-Quinones/static/js/main.8849f5df.js.map"
+    "main.34785d33.css.map": "/About-me-Angel-Quinones/static/css/main.34785d33.css.map",
+    "main.4995f7c6.js.map": "/About-me-Angel-Quinones/static/js/main.4995f7c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.8321816c.css",
-    "static/js/main.8849f5df.js"
+    "static/css/main.34785d33.css",
+    "static/js/main.4995f7c6.js"
   ]
 }
