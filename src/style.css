@@ -196,17 +196,17 @@
 }
 @media only screen and (min-width: 375px) and (max-width: 820px) {
   .background {
-    top: 1vh;
-    height: 800px;
-    width: 500px;
+    top: -5vh;
+    height: 80vh;
+    width: 100%;
   }
 }
 
 @media only screen and (min-width: 820px) and (max-width: 1500px) {
   .background {
-    top: 10px;
+    top: 1vh;
     /* height: 1100px; */
     height: 90vh;
-    width: 60%;
+    width: 100%;
   }
 }
