@@ -1,18 +1,21 @@
+import style from "./style.css";
 import Image from "./components/Image";
-import Info from "./components/Info";
-import About from "./components/About";
-import Interests from "./components/Interests";
-import Socials from "./components/Socials";
+import Background from "./components/Background";
+import Footer from "./components/Footer";
 
+import React from "react";
 export default function App() {
+  const [info, setInfo] = React.useState({
+    title: "Aspiring Full Stack Developer",
+    quote: "People's dreams... Never end!",
+  });
   return (
-    <div className="Background">
-      <Image />
-      <Info />
-      <About />
-      <Interests />
-      <div className="Foreground"></div>
-      <Socials />
+    <div className="container">
+      <div className="background">
+        <Image />
+        <Background info={info} setInfo={setInfo} />
+        <Footer />
+      </div>
     </div>
   );
 }
