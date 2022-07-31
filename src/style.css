@@ -195,7 +195,6 @@
     height: 600px;
     width: 300px;
     overflow: auto;
-    background-color: blue;
   }
   :root {
     font-size: 1.3vh;
@@ -206,7 +205,9 @@
     top: -5vh;
     height: 80vh;
     width: 100%;
-    background-color: yellow;
+  }
+  .navbar {
+    top: 4vh;
   }
   :root {
     font-size: 1.43vh;
@@ -219,7 +220,6 @@
     /* height: 1100px; */
     height: 95vh;
     width: 45%;
-    background-color: #ffffff;
   }
   :root {
     font-size: 2vh;
@@ -236,7 +236,6 @@
     line-height: 150%;
     /* or 15px */
 
-    color: #dcdcdc;
     padding: 1vh;
   }
 
