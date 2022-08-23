@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/About-me-Angel-Quinones/static/css/main.f9cdbbdd.css",
+    "main.css": "/About-me-Angel-Quinones/static/css/main.cc2130fb.css",
     "main.js": "/About-me-Angel-Quinones/static/js/main.8d80262a.js",
     "static/media/Angel.jpg": "/About-me-Angel-Quinones/static/media/Angel.8283d7553f6bbed3cbff.jpg",
     "static/media/Angel_Quinones_Resume.pdf": "/About-me-Angel-Quinones/static/media/Angel_Quinones_Resume.35a1e8a12ce2ca441e59.pdf",
     "index.html": "/About-me-Angel-Quinones/index.html",
-    "main.f9cdbbdd.css.map": "/About-me-Angel-Quinones/static/css/main.f9cdbbdd.css.map",
+    "main.cc2130fb.css.map": "/About-me-Angel-Quinones/static/css/main.cc2130fb.css.map",
     "main.8d80262a.js.map": "/About-me-Angel-Quinones/static/js/main.8d80262a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9cdbbdd.css",
+    "static/css/main.cc2130fb.css",
     "static/js/main.8d80262a.js"
   ]
 }
