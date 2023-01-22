@@ -17,7 +17,7 @@ export default function NarBar() {
       <li className="resume">
         <a
           title="Download my Resume"
-          href={require("./items/Angel_Quinones_Resume.pdf")}
+          href={require("./items/Resume_Angel_Quinones.pdf")}
           target="_blank"
         >
           <HiOutlineDocumentDownload
