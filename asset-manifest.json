@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc2130fb.css",
-    "main.js": "/static/js/main.20c9f204.js",
-    "static/media/Angel.jpg": "/static/media/Angel.8283d7553f6bbed3cbff.jpg",
-    "static/media/Resume_Angel_Quinones.pdf": "/static/media/Resume_Angel_Quinones.99c89d57c536314c1249.pdf",
-    "index.html": "/index.html",
-    "main.cc2130fb.css.map": "/static/css/main.cc2130fb.css.map",
-    "main.20c9f204.js.map": "/static/js/main.20c9f204.js.map"
+    "main.css": "/About-me-Angel-Quinones/static/css/main.3ee03758.css",
+    "main.js": "/About-me-Angel-Quinones/static/js/main.24e63e8e.js",
+    "static/media/Angel.jpg": "/About-me-Angel-Quinones/static/media/Angel.8283d7553f6bbed3cbff.jpg",
+    "static/media/Resume_Angel_Quinones.pdf": "/About-me-Angel-Quinones/static/media/Resume_Angel_Quinones.99c89d57c536314c1249.pdf",
+    "index.html": "/About-me-Angel-Quinones/index.html",
+    "main.3ee03758.css.map": "/About-me-Angel-Quinones/static/css/main.3ee03758.css.map",
+    "main.24e63e8e.js.map": "/About-me-Angel-Quinones/static/js/main.24e63e8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc2130fb.css",
-    "static/js/main.20c9f204.js"
+    "static/css/main.3ee03758.css",
+    "static/js/main.24e63e8e.js"
   ]
 }
