@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/About-me-Angel-Quinones/static/css/main.cc2130fb.css",
-    "main.js": "/About-me-Angel-Quinones/static/js/main.01c57ab9.js",
-    "static/media/Angel.jpg": "/About-me-Angel-Quinones/static/media/Angel.8283d7553f6bbed3cbff.jpg",
-    "static/media/Resume_Angel_Quinones.pdf": "/About-me-Angel-Quinones/static/media/Resume_Angel_Quinones.99c89d57c536314c1249.pdf",
-    "index.html": "/About-me-Angel-Quinones/index.html",
-    "main.cc2130fb.css.map": "/About-me-Angel-Quinones/static/css/main.cc2130fb.css.map",
-    "main.01c57ab9.js.map": "/About-me-Angel-Quinones/static/js/main.01c57ab9.js.map"
+    "main.css": "//www.quinonesangel.com/static/css/main.cc2130fb.css",
+    "main.js": "//www.quinonesangel.com/static/js/main.115b3127.js",
+    "static/media/Angel.jpg": "//www.quinonesangel.com/static/media/Angel.8283d7553f6bbed3cbff.jpg",
+    "static/media/Resume_Angel_Quinones.pdf": "//www.quinonesangel.com/static/media/Resume_Angel_Quinones.99c89d57c536314c1249.pdf",
+    "index.html": "//www.quinonesangel.com/index.html",
+    "main.cc2130fb.css.map": "//www.quinonesangel.com/static/css/main.cc2130fb.css.map",
+    "main.115b3127.js.map": "//www.quinonesangel.com/static/js/main.115b3127.js.map"
   },
   "entrypoints": [
     "static/css/main.cc2130fb.css",
-    "static/js/main.01c57ab9.js"
+    "static/js/main.115b3127.js"
   ]
 }
