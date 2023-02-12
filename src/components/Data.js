@@ -5,6 +5,6 @@ export default [
   },
   {
     title: "Interests",
-    body: "Game development is a long time interest of mine. Right now, I am working on a balloon popping board game with React.js. I love running on my free time - I've recently decreased my mile time by a minute, cooking, and watching shows such as One Piece. I love cooking as it requires a set sequence of instructions, that when done right, make something great! ",
+    body: "Game development is a long time interest of mine. Right now, I made a fullstack rock-paper-scissors game the winter of Dec/22! I love running on my free time - I've recently decreased my mile time by a minute, cooking, and watching shows such as One Piece. I love cooking as it requires a set sequence of instructions, that when done right, make something great! ",
   },
 ];

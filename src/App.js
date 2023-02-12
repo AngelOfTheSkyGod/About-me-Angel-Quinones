@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 
 import React from "react";
 
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 export default function App() {
   const [info, setInfo] = React.useState({
@@ -13,18 +13,12 @@ export default function App() {
     quote: "People's dreams... Never end!",
   });
   return (
-    <Router>
-      <div className="container">
-        <Switch>
-          <Route path="/">
-            <div className="background">
-              <Image />
-              <Background info={info} setInfo={setInfo} />
-              <Footer />
-            </div>
-          </Route>
-        </Switch>
+    <div className="container">
+      <div className="background">
+        <Image />
+        <Background info={info} setInfo={setInfo} />
+        <Footer />
       </div>
-    </Router>
+    </div>
   );
 }
