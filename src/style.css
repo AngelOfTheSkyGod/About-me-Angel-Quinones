@@ -2,10 +2,6 @@
   position: relative;
   width: 100%;
   height: 100vh;
-  padding-left: 9%;
-  padding-right: 9%;
-  padding-bottom: 6%;
-  padding-top: 4%;
   box-sizing: border-box;
   display: flex;
   flex-wrap: wrap-reverse;
@@ -59,9 +55,8 @@
   position: relative;
   display: inline-block;
   box-sizing: border-box;
-  width: 100%;
-  height: 10vh;
-  padding: 5%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .name {
@@ -183,7 +178,6 @@
     top: 1vh;
     height: 600px;
     width: 300px;
-    background-color: red;
   }
   :root {
     font-size: 1.2vh;
@@ -263,6 +257,6 @@
 
 @media only screen and (min-width: 1500px) {
   :root {
-    font-size: 1.5vh;
+    font-size: 2vh;
   }
 }
