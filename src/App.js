@@ -7,7 +7,7 @@ import React from "react";
 
 export default function App() {
   const [info, setInfo] = React.useState({
-    title: "Aspiring Full Stack Developer",
+    title: "Full Stack Developer @HCSC",
     quote: "People's dreams... Never end!",
   });
   return (

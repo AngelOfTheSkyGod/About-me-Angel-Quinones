@@ -218,9 +218,7 @@
   :root {
     font-size: 2vh;
   }
-  .navbar {
-    top: 4vh;
-  }
+
   .p-body {
     box-sizing: border-box;
     font-family: "Inter";

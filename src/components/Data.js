@@ -1,7 +1,7 @@
 export default [
   {
     title: "About",
-    body: "I currently work at Blue Cross Blue Shield as an Associate Software Developer. I went to the University of Illinois at Chicago and have a Bachelors in Science from Computer Science.",
+    body: "I currently work at HCSC as an Associate Software Developer. I went to the University of Illinois at Chicago and have a Bachelors in Science in Computer Science.",
   },
   {
     title: "Interests",
